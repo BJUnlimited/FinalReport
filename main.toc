@@ -1,0 +1,51 @@
+\contentsline {chapter}{Abstract}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {chapter}{Acknowledgments}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {chapter}{Introduction}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {chapter}{Background}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {chapter}{Problem Statement and Objectives}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {chapter}{Analysis}{11}
+\contentsline {paragraph}{Simplifications and Assumptions}{11}
+\contentsline {paragraph}{Computational Simulation}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{12}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{Final Parameter Values}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{13}
+\contentsline {paragraph}{}{14}
+\contentsline {chapter}{Results and Discussion}{15}
+\contentsline {paragraph}{A Positive Relationship Exists Between Number of Cheer Starters and Average Final Percentage of Cheering Fans}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {paragraph}{39 or More Cheer Starters Produce Statistically Significant Increases in Cheering }{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{The Rate at Which Cheering Increases Grows with the Number of Cheer Starters}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {chapter}{Conclusion}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {paragraph}{}{20}
+\contentsline {chapter}{Glossary}{21}
+\contentsline {chapter}{Abbreviations}{22}
+\contentsline {chapter}{Team GitHub Address}{23}
+\contentsline {chapter}{REFERENCES}{}
+\contentsline {chapter}{Selected Bibliography Including Cited Works}{24}
