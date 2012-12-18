@@ -28,7 +28,7 @@
 \contentsline {paragraph}{}{13}
 \contentsline {paragraph}{}{14}
 \contentsline {chapter}{Results and Discussion}{15}
-\contentsline {paragraph}{A Positive Relationship Exists Between Number of Cheer Starters and Average Final Percentage of Cheering Fans}{15}
+\contentsline {paragraph}{A Positive Relationship Exists Between the Number of Cheer Starters and the Average Final Percentage of Cheering Fans}{15}
 \contentsline {paragraph}{}{15}
 \contentsline {paragraph}{39 or More Cheer Starters Produce Statistically Significant Increases in Cheering }{16}
 \contentsline {paragraph}{}{16}
